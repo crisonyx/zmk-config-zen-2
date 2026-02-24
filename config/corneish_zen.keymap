@@ -6,11 +6,11 @@
 #define ZMK_POINTING_DEFAULT_MOVE_VAL 1000  // default: 600
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 10    // default: 10
 
-/ {
-    chosen {
-        zmk,physical-layout = &foostan_corne_6col_layout;
-    };
-};
+/* / { */
+/*     chosen { */
+/*         zmk,physical-layout = &foostan_corne_6col_layout; */
+/*     }; */
+/* }; */
 
 / {
     behaviors {
